@@ -145,12 +145,4 @@ h2 {
   .box-4 {
     grid-column: 1;
   }
-
-  .quote-mark {
-    width: 80px;
-    position: absolute;
-    top: 0;
-    right: 30px;
-    opacity: 0.9;
-  }
 }
